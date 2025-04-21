@@ -9509,3 +9509,589 @@ Alternately, you can install this by running `pip install pycaret[models]`
 2025-04-21 14:44:54,247:INFO:Logistic Regression Imported successfully
 2025-04-21 14:44:54,248:INFO:Starting cross validation
 2025-04-21 14:44:54,252:INFO:Cross validating with StratifiedKFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2025-04-21 14:45:01,462:WARNING:C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\linear_model\_logistic.py:458: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+2025-04-21 14:45:01,493:WARNING:C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\linear_model\_logistic.py:458: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+2025-04-21 14:45:01,533:WARNING:C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\linear_model\_logistic.py:458: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+2025-04-21 14:45:01,544:WARNING:C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\linear_model\_logistic.py:458: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+2025-04-21 14:45:01,551:WARNING:C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\linear_model\_logistic.py:458: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+2025-04-21 14:45:01,758:WARNING:C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\linear_model\_logistic.py:458: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+2025-04-21 14:45:01,776:WARNING:C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\linear_model\_logistic.py:458: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+2025-04-21 14:45:01,835:WARNING:C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\linear_model\_logistic.py:458: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+2025-04-21 14:45:02,239:WARNING:C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\linear_model\_logistic.py:458: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+2025-04-21 14:45:02,284:WARNING:C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\linear_model\_logistic.py:458: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+2025-04-21 14:45:02,313:INFO:Calculating mean and std
+2025-04-21 14:45:02,315:WARNING:Processing:  29%|2| 5/17 [00:08<00:19,  1.
+2025-04-21 14:45:02,315:INFO:Creating metrics dataframe
+2025-04-21 14:45:02,321:INFO:Uploading results into container
+2025-04-21 14:45:02,322:INFO:Uploading model into container now
+2025-04-21 14:45:02,323:INFO:_master_model_container: 1
+2025-04-21 14:45:02,323:INFO:_display_container: 2
+2025-04-21 14:45:02,324:INFO:LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=1000,
+                   multi_class='auto', n_jobs=None, penalty='l2',
+                   random_state=123, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False)
+2025-04-21 14:45:02,324:INFO:create_model() successfully completed......................................
+2025-04-21 14:45:02,468:INFO:SubProcess create_model() end ==================================
+2025-04-21 14:45:02,468:INFO:Creating metrics dataframe
+2025-04-21 14:45:02,478:INFO:Initializing SVM - Linear Kernel
+2025-04-21 14:45:02,478:INFO:Total runtime is 0.13763424158096313 minutes
+2025-04-21 14:45:02,478:INFO:SubProcess create_model() called ==================================
+2025-04-21 14:45:02,479:INFO:Initializing create_model()
+2025-04-21 14:45:02,479:INFO:create_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001B0030162C0>, estimator=svm, fold=StratifiedKFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x000001B004F050C0>, model_only=True, return_train_score=False, kwargs={})
+2025-04-21 14:45:02,479:INFO:Checking exceptions
+2025-04-21 14:45:02,479:INFO:Importing libraries
+2025-04-21 14:45:02,480:INFO:Copying training dataset
+2025-04-21 14:45:02,488:WARNING:Processing:  41%|4| 7/17 [00:08<00:10,  1.
+2025-04-21 14:45:02,488:INFO:Defining folds
+2025-04-21 14:45:02,488:INFO:Declaring metric variables
+2025-04-21 14:45:02,489:INFO:Importing untrained model
+2025-04-21 14:45:02,490:INFO:SVM - Linear Kernel Imported successfully
+2025-04-21 14:45:02,490:INFO:Starting cross validation
+2025-04-21 14:45:02,492:INFO:Cross validating with StratifiedKFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2025-04-21 14:45:02,648:WARNING:C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\pycaret\internal\metrics.py:190: FitFailedWarning: Metric 'make_scorer(roc_auc_score, needs_proba=True, error_score=0.0, average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_scorer.py", line 76, in _cached_call
+    return cache[method]
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\pycaret\internal\metrics.py", line 182, in _score
+    return super()._score(
+  File "C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+  File "C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+  File "C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\utils\_available_if.py", line 32, in __get__
+    if not self.check(obj):
+  File "C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\linear_model\_stochastic_gradient.py", line 1235, in _check_proba
+    raise AttributeError(
+AttributeError: probability estimates are not available for loss='hinge'
+
+  warnings.warn(
+
+2025-04-21 14:45:02,662:WARNING:C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\pycaret\internal\metrics.py:190: FitFailedWarning: Metric 'make_scorer(roc_auc_score, needs_proba=True, error_score=0.0, average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_scorer.py", line 76, in _cached_call
+    return cache[method]
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\pycaret\internal\metrics.py", line 182, in _score
+    return super()._score(
+  File "C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+  File "C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+  File "C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\utils\_available_if.py", line 32, in __get__
+    if not self.check(obj):
+  File "C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\linear_model\_stochastic_gradient.py", line 1235, in _check_proba
+    raise AttributeError(
+AttributeError: probability estimates are not available for loss='hinge'
+
+  warnings.warn(
+
+2025-04-21 14:45:02,670:WARNING:C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+
+2025-04-21 14:45:02,670:WARNING:C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+
+2025-04-21 14:45:02,675:WARNING:C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\pycaret\internal\metrics.py:190: FitFailedWarning: Metric 'make_scorer(roc_auc_score, needs_proba=True, error_score=0.0, average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_scorer.py", line 76, in _cached_call
+    return cache[method]
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\pycaret\internal\metrics.py", line 182, in _score
+    return super()._score(
+  File "C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+  File "C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+  File "C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\utils\_available_if.py", line 32, in __get__
+    if not self.check(obj):
+  File "C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\linear_model\_stochastic_gradient.py", line 1235, in _check_proba
+    raise AttributeError(
+AttributeError: probability estimates are not available for loss='hinge'
+
+  warnings.warn(
+
+2025-04-21 14:45:02,705:WARNING:C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\pycaret\internal\metrics.py:190: FitFailedWarning: Metric 'make_scorer(roc_auc_score, needs_proba=True, error_score=0.0, average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_scorer.py", line 76, in _cached_call
+    return cache[method]
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\pycaret\internal\metrics.py", line 182, in _score
+    return super()._score(
+  File "C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+  File "C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+  File "C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\utils\_available_if.py", line 32, in __get__
+    if not self.check(obj):
+  File "C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\linear_model\_stochastic_gradient.py", line 1235, in _check_proba
+    raise AttributeError(
+AttributeError: probability estimates are not available for loss='hinge'
+
+  warnings.warn(
+
+2025-04-21 14:45:02,744:WARNING:C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\pycaret\internal\metrics.py:190: FitFailedWarning: Metric 'make_scorer(roc_auc_score, needs_proba=True, error_score=0.0, average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_scorer.py", line 76, in _cached_call
+    return cache[method]
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\pycaret\internal\metrics.py", line 182, in _score
+    return super()._score(
+  File "C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+  File "C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+  File "C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\utils\_available_if.py", line 32, in __get__
+    if not self.check(obj):
+  File "C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\linear_model\_stochastic_gradient.py", line 1235, in _check_proba
+    raise AttributeError(
+AttributeError: probability estimates are not available for loss='hinge'
+
+  warnings.warn(
+
+2025-04-21 14:45:02,746:WARNING:C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\pycaret\internal\metrics.py:190: FitFailedWarning: Metric 'make_scorer(roc_auc_score, needs_proba=True, error_score=0.0, average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_scorer.py", line 76, in _cached_call
+    return cache[method]
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\pycaret\internal\metrics.py", line 182, in _score
+    return super()._score(
+  File "C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+  File "C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+  File "C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\utils\_available_if.py", line 32, in __get__
+    if not self.check(obj):
+  File "C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\linear_model\_stochastic_gradient.py", line 1235, in _check_proba
+    raise AttributeError(
+AttributeError: probability estimates are not available for loss='hinge'
+
+  warnings.warn(
+
+2025-04-21 14:45:02,750:WARNING:C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\pycaret\internal\metrics.py:190: FitFailedWarning: Metric 'make_scorer(roc_auc_score, needs_proba=True, error_score=0.0, average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_scorer.py", line 76, in _cached_call
+    return cache[method]
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\pycaret\internal\metrics.py", line 182, in _score
+    return super()._score(
+  File "C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+  File "C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+  File "C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\utils\_available_if.py", line 32, in __get__
+    if not self.check(obj):
+  File "C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\linear_model\_stochastic_gradient.py", line 1235, in _check_proba
+    raise AttributeError(
+AttributeError: probability estimates are not available for loss='hinge'
+
+  warnings.warn(
+
+2025-04-21 14:45:02,755:WARNING:C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+
+2025-04-21 14:45:02,759:WARNING:C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+
+2025-04-21 14:45:02,805:WARNING:C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\pycaret\internal\metrics.py:190: FitFailedWarning: Metric 'make_scorer(roc_auc_score, needs_proba=True, error_score=0.0, average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_scorer.py", line 76, in _cached_call
+    return cache[method]
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\pycaret\internal\metrics.py", line 182, in _score
+    return super()._score(
+  File "C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+  File "C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+  File "C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\utils\_available_if.py", line 32, in __get__
+    if not self.check(obj):
+  File "C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\linear_model\_stochastic_gradient.py", line 1235, in _check_proba
+    raise AttributeError(
+AttributeError: probability estimates are not available for loss='hinge'
+
+  warnings.warn(
+
+2025-04-21 14:45:02,815:WARNING:C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+
+2025-04-21 14:45:02,846:WARNING:C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\pycaret\internal\metrics.py:190: FitFailedWarning: Metric 'make_scorer(roc_auc_score, needs_proba=True, error_score=0.0, average=weighted, multi_class=ovr)' failed and error score 0.0 has been returned instead. If this is a custom metric, this usually means that the error is in the metric code. Full exception below:
+Traceback (most recent call last):
+  File "C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_scorer.py", line 76, in _cached_call
+    return cache[method]
+KeyError: 'predict_proba'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\pycaret\internal\metrics.py", line 182, in _score
+    return super()._score(
+  File "C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_scorer.py", line 316, in _score
+    y_pred = method_caller(clf, "predict_proba", X)
+  File "C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_scorer.py", line 78, in _cached_call
+    result = getattr(estimator, method)(*args, **kwargs)
+  File "C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\utils\_available_if.py", line 32, in __get__
+    if not self.check(obj):
+  File "C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\linear_model\_stochastic_gradient.py", line 1235, in _check_proba
+    raise AttributeError(
+AttributeError: probability estimates are not available for loss='hinge'
+
+  warnings.warn(
+
+2025-04-21 14:45:02,865:INFO:Calculating mean and std
+2025-04-21 14:45:02,866:WARNING:Processing:  53%|5| 9/17 [00:08<00:06,  1.
+2025-04-21 14:45:02,866:INFO:Creating metrics dataframe
+2025-04-21 14:45:02,872:INFO:Uploading results into container
+2025-04-21 14:45:02,873:INFO:Uploading model into container now
+2025-04-21 14:45:02,874:INFO:_master_model_container: 2
+2025-04-21 14:45:02,874:INFO:_display_container: 2
+2025-04-21 14:45:02,875:INFO:SGDClassifier(alpha=0.0001, average=False, class_weight=None,
+              early_stopping=False, epsilon=0.1, eta0=0.001, fit_intercept=True,
+              l1_ratio=0.15, learning_rate='optimal', loss='hinge',
+              max_iter=1000, n_iter_no_change=5, n_jobs=-1, penalty='l2',
+              power_t=0.5, random_state=123, shuffle=True, tol=0.001,
+              validation_fraction=0.1, verbose=0, warm_start=False)
+2025-04-21 14:45:02,875:INFO:create_model() successfully completed......................................
+2025-04-21 14:45:03,140:INFO:SubProcess create_model() end ==================================
+2025-04-21 14:45:03,143:INFO:Creating metrics dataframe
+2025-04-21 14:45:03,168:INFO:Initializing K Neighbors Classifier
+2025-04-21 14:45:03,168:INFO:Total runtime is 0.14913338820139566 minutes
+2025-04-21 14:45:03,169:INFO:SubProcess create_model() called ==================================
+2025-04-21 14:45:03,172:INFO:Initializing create_model()
+2025-04-21 14:45:03,174:INFO:create_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001B0030162C0>, estimator=knn, fold=StratifiedKFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=<pycaret.internal.display.display.CommonDisplay object at 0x000001B004F050C0>, model_only=True, return_train_score=False, kwargs={})
+2025-04-21 14:45:03,175:INFO:Checking exceptions
+2025-04-21 14:45:03,176:INFO:Importing libraries
+2025-04-21 14:45:03,176:INFO:Copying training dataset
+2025-04-21 14:45:03,187:WARNING:Processing:  65%|6| 11/17 [00:08<00:03,  1
+2025-04-21 14:45:03,188:INFO:Defining folds
+2025-04-21 14:45:03,188:INFO:Declaring metric variables
+2025-04-21 14:45:03,188:INFO:Importing untrained model
+2025-04-21 14:45:03,189:INFO:K Neighbors Classifier Imported successfully
+2025-04-21 14:45:03,190:INFO:Starting cross validation
+2025-04-21 14:45:03,192:INFO:Cross validating with StratifiedKFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2025-04-21 14:45:04,038:INFO:Calculating mean and std
+2025-04-21 14:45:04,040:WARNING:Processing:  76%|7| 13/17 [00:09<00:02,  1
+2025-04-21 14:45:04,040:INFO:Creating metrics dataframe
+2025-04-21 14:45:04,057:INFO:Uploading results into container
+2025-04-21 14:45:04,064:INFO:Uploading model into container now
+2025-04-21 14:45:04,070:INFO:_master_model_container: 3
+2025-04-21 14:45:04,070:INFO:_display_container: 2
+2025-04-21 14:45:04,072:INFO:KNeighborsClassifier(algorithm='auto', leaf_size=30, metric='minkowski',
+                     metric_params=None, n_jobs=-1, n_neighbors=5, p=2,
+                     weights='uniform')
+2025-04-21 14:45:04,072:INFO:create_model() successfully completed......................................
+2025-04-21 14:45:04,261:INFO:SubProcess create_model() end ==================================
+2025-04-21 14:45:04,261:INFO:Creating metrics dataframe
+2025-04-21 14:45:04,270:WARNING:Processing:  88%|8| 15/17 [00:10<00:00,  2
+2025-04-21 14:45:04,274:INFO:Initializing create_model()
+2025-04-21 14:45:04,274:INFO:create_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001B0030162C0>, estimator=LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=1000,
+                   multi_class='auto', n_jobs=None, penalty='l2',
+                   random_state=123, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), fold=StratifiedKFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=False, predict=False, fit_kwargs={}, groups=None, refit=True, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=True, metrics=None, display=None, model_only=True, return_train_score=False, kwargs={})
+2025-04-21 14:45:04,274:INFO:Checking exceptions
+2025-04-21 14:45:04,276:INFO:Importing libraries
+2025-04-21 14:45:04,276:INFO:Copying training dataset
+2025-04-21 14:45:04,283:INFO:Defining folds
+2025-04-21 14:45:04,283:INFO:Declaring metric variables
+2025-04-21 14:45:04,283:INFO:Importing untrained model
+2025-04-21 14:45:04,283:INFO:Declaring custom model
+2025-04-21 14:45:04,284:INFO:Logistic Regression Imported successfully
+2025-04-21 14:45:04,285:INFO:Cross validation set to False
+2025-04-21 14:45:04,285:INFO:Fitting Model
+2025-04-21 14:45:05,257:WARNING:C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\linear_model\_logistic.py:458: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+2025-04-21 14:45:05,258:INFO:LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=1000,
+                   multi_class='auto', n_jobs=None, penalty='l2',
+                   random_state=123, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False)
+2025-04-21 14:45:05,258:INFO:create_model() successfully completed......................................
+2025-04-21 14:45:05,357:WARNING:Processing: 100%|#| 17/17 [00:11<00:00,  2
+2025-04-21 14:45:05,358:WARNING:                                          
+2025-04-21 14:45:05,366:INFO:                      Model  Accuracy     AUC  Recall   Prec.      F1   Kappa  \
+2025-04-21 14:45:05,367:INFO:lr      Logistic Regression    0.9817  0.9994  0.9817  0.9826  0.9817  0.9786   
+2025-04-21 14:45:05,367:INFO:knn  K Neighbors Classifier    0.9303  0.9902  0.9303  0.9356  0.9289  0.9185   
+2025-04-21 14:45:05,367:INFO:svm     SVM - Linear Kernel    0.6447  0.0000  0.6447  0.6843  0.5889  0.5827   
+2025-04-21 14:45:05,367:INFO:
+2025-04-21 14:45:05,367:INFO:        MCC  TT (Sec)  
+2025-04-21 14:45:05,367:INFO:lr   0.9788     0.806  
+2025-04-21 14:45:05,367:INFO:knn  0.9198     0.085  
+2025-04-21 14:45:05,368:INFO:svm  0.6168     0.037  
+2025-04-21 14:45:05,368:INFO:_master_model_container: 3
+2025-04-21 14:45:05,368:INFO:_display_container: 2
+2025-04-21 14:45:05,369:INFO:LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=1000,
+                   multi_class='auto', n_jobs=None, penalty='l2',
+                   random_state=123, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False)
+2025-04-21 14:45:05,369:INFO:compare_models() successfully completed......................................
+2025-04-21 14:45:05,381:INFO:Initializing create_model()
+2025-04-21 14:45:05,381:INFO:create_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001B0030162C0>, estimator=LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=1000,
+                   multi_class='auto', n_jobs=None, penalty='l2',
+                   random_state=123, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False), fold=None, round=4, cross_validation=True, predict=True, fit_kwargs=None, groups=None, refit=True, probability_threshold=None, experiment_custom_tags=None, verbose=True, system=True, add_to_model_list=True, metrics=None, display=None, model_only=True, return_train_score=False, kwargs={})
+2025-04-21 14:45:05,383:INFO:Checking exceptions
+2025-04-21 14:45:05,388:WARNING:
+2025-04-21 14:45:05,389:WARNING:Processing:   0%|   | 0/4 [00:00<?, ?it/s]
+2025-04-21 14:45:05,389:INFO:Importing libraries
+2025-04-21 14:45:05,390:INFO:Copying training dataset
+2025-04-21 14:45:05,405:INFO:Defining folds
+2025-04-21 14:45:05,406:INFO:Declaring metric variables
+2025-04-21 14:45:05,406:INFO:Importing untrained model
+2025-04-21 14:45:05,406:INFO:Declaring custom model
+2025-04-21 14:45:05,408:INFO:Logistic Regression Imported successfully
+2025-04-21 14:45:05,409:INFO:Starting cross validation
+2025-04-21 14:45:05,410:INFO:Cross validating with StratifiedKFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2025-04-21 14:45:06,865:WARNING:C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\linear_model\_logistic.py:458: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+2025-04-21 14:45:06,885:WARNING:C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\linear_model\_logistic.py:458: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+2025-04-21 14:45:06,911:WARNING:C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\linear_model\_logistic.py:458: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+2025-04-21 14:45:06,941:WARNING:C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\linear_model\_logistic.py:458: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+2025-04-21 14:45:06,972:WARNING:C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\linear_model\_logistic.py:458: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+2025-04-21 14:45:07,009:WARNING:C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\linear_model\_logistic.py:458: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+2025-04-21 14:45:07,053:WARNING:C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\linear_model\_logistic.py:458: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+2025-04-21 14:45:07,061:WARNING:C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\linear_model\_logistic.py:458: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+2025-04-21 14:45:08,095:WARNING:C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\linear_model\_logistic.py:458: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+2025-04-21 14:45:08,143:WARNING:C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\linear_model\_logistic.py:458: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+2025-04-21 14:45:08,196:INFO:Calculating mean and std
+2025-04-21 14:45:08,198:WARNING:Processing:  75%|7| 3/4 [00:02<00:00,  1.0
+2025-04-21 14:45:08,200:INFO:Creating metrics dataframe
+2025-04-21 14:45:08,205:INFO:Finalizing model
+2025-04-21 14:45:09,455:WARNING:C:\Users\XPS 9560\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\linear_model\_logistic.py:458: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+2025-04-21 14:45:09,467:WARNING:Processing: 100%|#| 4/4 [00:04<00:00,  1.0
+2025-04-21 14:45:09,468:WARNING:                                          
+2025-04-21 14:45:09,470:INFO:Uploading results into container
+2025-04-21 14:45:09,477:INFO:Uploading model into container now
+2025-04-21 14:45:09,502:INFO:      Accuracy     AUC  ...   Kappa     MCC
+2025-04-21 14:45:09,503:INFO:Fold                    ...                
+2025-04-21 14:45:09,504:INFO:0       0.9730  0.9979  ...  0.9684  0.9686
+2025-04-21 14:45:09,505:INFO:1       0.9730  0.9997  ...  0.9684  0.9688
+2025-04-21 14:45:09,505:INFO:2       0.9865  0.9999  ...  0.9842  0.9843
+2025-04-21 14:45:09,505:INFO:3       0.9865  1.0000  ...  0.9842  0.9843
+2025-04-21 14:45:09,505:INFO:4       0.9865  0.9991  ...  0.9842  0.9843
+2025-04-21 14:45:09,505:INFO:5       0.9865  0.9999  ...  0.9842  0.9844
+2025-04-21 14:45:09,506:INFO:6       0.9865  0.9983  ...  0.9842  0.9843
+2025-04-21 14:45:09,506:INFO:7       0.9660  0.9994  ...  0.9603  0.9608
+2025-04-21 14:45:09,506:INFO:8       0.9796  0.9998  ...  0.9762  0.9762
+2025-04-21 14:45:09,506:INFO:9       0.9932  1.0000  ...  0.9921  0.9921
+2025-04-21 14:45:09,507:INFO:Mean    0.9817  0.9994  ...  0.9786  0.9788
+2025-04-21 14:45:09,507:INFO:Std     0.0081  0.0007  ...  0.0094  0.0093
+2025-04-21 14:45:09,507:INFO:
+2025-04-21 14:45:09,507:INFO:[12 rows x 7 columns]
+2025-04-21 14:45:09,507:INFO:_master_model_container: 4
+2025-04-21 14:45:09,507:INFO:_display_container: 3
+2025-04-21 14:45:09,508:INFO:LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=1000,
+                   multi_class='auto', n_jobs=None, penalty='l2',
+                   random_state=123, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False)
+2025-04-21 14:45:09,508:INFO:create_model() successfully completed......................................
