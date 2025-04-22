@@ -22,15 +22,9 @@ This project simplifies the entire machine learning workflow — from data prepr
 - `logs.log` — Logs from model runs  
 - `requirements.txt` — Required dependencies
 
----
-
-## ▶️ How to Run the Project
-
-### 1. Install Required Packages
-
 --- 
-## 📷 Screenshots for using the Tool
 
+## 📷 Screenshots for using the Tool
 
 
 ![Screenshot 2025-04-21 143818](https://github.com/user-attachments/assets/549e5a3b-9977-46d6-a096-b5c66406e7fb)
@@ -38,6 +32,14 @@ This project simplifies the entire machine learning workflow — from data prepr
 ![Screenshot 2025-04-21 143927](https://github.com/user-attachments/assets/21f00a5f-4114-42ff-a57a-8314e98e9557)
 
 ![Screenshot 2025-04-21 144014](https://github.com/user-attachments/assets/20b62160-055e-4bbf-a016-eeeec886c013)
+
+
+---
+
+## ▶️ How to Run the Project
+
+### 1. Install Required Packages
+
 
 ```bash
 pip install -r requirements.txt
